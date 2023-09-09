@@ -1,4 +1,4 @@
-import{n,P as r,j as i,L as s}from"./index-80efc491.js";import{S as a,D as p}from"./DeleteButton-a2d7ea8a.js";const x="/react_node_fs72_DTripleD/assets/coctails-6f30eaa9.jpg",l=n.div`
+import{n,P as r,j as i,L as s}from"./index-1f9018cf.js";import{S as a,D as p}from"./DeleteButton-1bfa6400.js";const x="/react_node_fs72_DTripleD/assets/coctails-6f30eaa9.jpg",l=n.div`
   display: flex;
   flex-direction: column;
   border: none;

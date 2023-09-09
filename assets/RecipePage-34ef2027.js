@@ -1,4 +1,4 @@
-import{n as i,P as s,j as t,y as g,r as a,h as m,c as j,v as y,z,x as I,i as k,M as P,a as T}from"./index-80efc491.js";import{a as q,s as L,d as l}from"./plug-m-b8799421.js";import{d as u}from"./plug-b-c0c285b5.js";const R=i.h1`
+import{n as i,P as s,j as t,y as g,r as a,h as m,c as j,v as y,z,x as I,i as k,M as P,a as T}from"./index-1f9018cf.js";import{a as q,s as L,d as l}from"./plug-m-b8799421.js";import{d as u}from"./plug-b-c0c285b5.js";const R=i.h1`
   color: ${e=>e.theme.colors.white};
   text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 font-size: 32px;
